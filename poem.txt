@@ -3,3 +3,7 @@ Red
 Yellow
 Blue
 Purple
+skittle
+orange
+teal
+cyan
